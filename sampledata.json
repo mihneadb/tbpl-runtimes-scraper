@@ -22,11 +22,11 @@
     "name" : "B",
     "passed" : true,
     "duration" : 147
-  }, [ {
+  }, {
     "name" : "M-bc",
     "passed" : true,
     "duration" : 119
-  } ] ]
+  } ]
 }, {
   "platform" : "Fedora64 opt",
   "data" : [ {
@@ -51,11 +51,11 @@
     "name" : "B",
     "passed" : true,
     "duration" : 141
-  }, [ {
+  }, {
     "name" : "M-bc",
     "passed" : true,
     "duration" : 95
-  } ] ]
+  } ]
 }, {
   "platform" : "Ubuntu opt",
   "data" : [ {
@@ -66,7 +66,7 @@
     "name" : "JP",
     "passed" : true,
     "duration" : 10
-  }, [ {
+  }, {
     "name" : "M-1",
     "passed" : true,
     "duration" : 33
@@ -94,7 +94,7 @@
     "name" : "M-oth",
     "passed" : true,
     "duration" : 40
-  } ], [ {
+  }, {
     "name" : "R-C",
     "passed" : true,
     "duration" : 9
@@ -118,7 +118,7 @@
     "name" : "R-Ripc",
     "passed" : true,
     "duration" : 3
-  } ], [ {
+  }, {
     "name" : "T-c",
     "passed" : true,
     "duration" : 16
@@ -142,7 +142,7 @@
     "name" : "T-tp",
     "passed" : true,
     "duration" : 15
-  } ] ]
+  } ]
 }, {
   "platform" : "Ubuntu pgo",
   "data" : [ {
@@ -153,7 +153,7 @@
     "name" : "JP",
     "passed" : true,
     "duration" : 10
-  }, [ {
+  }, {
     "name" : "M-1",
     "passed" : true,
     "duration" : 34
@@ -181,7 +181,7 @@
     "name" : "M-oth",
     "passed" : true,
     "duration" : 21
-  } ], [ {
+  }, {
     "name" : "R-C",
     "passed" : true,
     "duration" : 9
@@ -205,7 +205,7 @@
     "name" : "R-Ripc",
     "passed" : true,
     "duration" : 3
-  } ], [ {
+  }, {
     "name" : "T-c",
     "passed" : true,
     "duration" : 16
@@ -237,7 +237,7 @@
     "name" : "T-tp",
     "passed" : true,
     "duration" : 14
-  } ] ]
+  } ]
 }, {
   "platform" : "Ubuntu debug",
   "data" : [ {
@@ -252,7 +252,7 @@
     "name" : "JP",
     "passed" : true,
     "duration" : 27
-  }, [ {
+  }, {
     "name" : "M-1",
     "passed" : true,
     "duration" : 59
@@ -276,7 +276,7 @@
     "name" : "M-oth",
     "passed" : true,
     "duration" : 40
-  } ], [ {
+  }, {
     "name" : "R-C",
     "passed" : true,
     "duration" : 21
@@ -288,7 +288,7 @@
     "name" : "R-R",
     "passed" : true,
     "duration" : 100
-  } ] ]
+  } ]
 }, {
   "platform" : "Ubuntu64 opt",
   "data" : [ {
@@ -303,7 +303,7 @@
     "name" : "JP",
     "passed" : true,
     "duration" : 14
-  }, [ {
+  }, {
     "name" : "M-1",
     "passed" : true,
     "duration" : 26
@@ -331,7 +331,7 @@
     "name" : "M-oth",
     "passed" : true,
     "duration" : 18
-  } ], [ {
+  }, {
     "name" : "R-C",
     "passed" : true,
     "duration" : 7
@@ -343,7 +343,7 @@
     "name" : "R-R",
     "passed" : true,
     "duration" : 38
-  } ], [ {
+  }, {
     "name" : "T-c",
     "passed" : true,
     "duration" : 16
@@ -367,7 +367,7 @@
     "name" : "T-tp",
     "passed" : true,
     "duration" : 14
-  } ] ]
+  } ]
 }, {
   "platform" : "Ubuntu64 pgo",
   "data" : [ {
@@ -378,7 +378,7 @@
     "name" : "JP",
     "passed" : true,
     "duration" : 10
-  }, [ {
+  }, {
     "name" : "M-1",
     "passed" : true,
     "duration" : 25
@@ -406,7 +406,7 @@
     "name" : "M-oth",
     "passed" : true,
     "duration" : 17
-  } ], [ {
+  }, {
     "name" : "R-C",
     "passed" : true,
     "duration" : 9
@@ -418,7 +418,7 @@
     "name" : "R-R",
     "passed" : true,
     "duration" : 40
-  } ], [ {
+  }, {
     "name" : "T-c",
     "passed" : true,
     "duration" : 16
@@ -442,7 +442,7 @@
     "name" : "T-tp",
     "passed" : true,
     "duration" : 13
-  } ] ]
+  } ]
 }, {
   "platform" : "Ubuntu64 debug",
   "data" : [ {
@@ -457,7 +457,7 @@
     "name" : "JP",
     "passed" : true,
     "duration" : 20
-  }, [ {
+  }, {
     "name" : "M-1",
     "passed" : true,
     "duration" : 44
@@ -481,7 +481,7 @@
     "name" : "M-oth",
     "passed" : true,
     "duration" : 36
-  } ], [ {
+  }, {
     "name" : "R-C",
     "passed" : true,
     "duration" : 15
@@ -493,7 +493,7 @@
     "name" : "R-R",
     "passed" : true,
     "duration" : 51
-  } ] ]
+  } ]
 }, {
   "platform" : "OS X 10.6 opt",
   "data" : [ {
@@ -508,7 +508,7 @@
     "name" : "JP",
     "passed" : true,
     "duration" : 11
-  }, [ {
+  }, {
     "name" : "M-1",
     "passed" : true,
     "duration" : 20
@@ -536,7 +536,7 @@
     "name" : "M-oth",
     "passed" : true,
     "duration" : 16
-  } ], [ {
+  }, {
     "name" : "R-C",
     "passed" : true,
     "duration" : 9
@@ -548,7 +548,7 @@
     "name" : "R-R",
     "passed" : true,
     "duration" : 30
-  } ], [ {
+  }, {
     "name" : "T-c",
     "passed" : true,
     "duration" : 16
@@ -572,7 +572,7 @@
     "name" : "T-tp",
     "passed" : true,
     "duration" : 17
-  } ] ]
+  } ]
 }, {
   "platform" : "OS X 10.6 debug",
   "data" : [ {
@@ -587,7 +587,7 @@
     "name" : "JP",
     "passed" : true,
     "duration" : 30
-  }, [ {
+  }, {
     "name" : "M-1",
     "passed" : true,
     "duration" : 41
@@ -615,7 +615,7 @@
     "name" : "M-oth",
     "passed" : true,
     "duration" : 34
-  } ], [ {
+  }, {
     "name" : "R-C",
     "passed" : true,
     "duration" : 13
@@ -627,7 +627,7 @@
     "name" : "R-R",
     "passed" : true,
     "duration" : 51
-  } ] ]
+  } ]
 }, {
   "platform" : "OS X 10.7 opt",
   "data" : [ {
@@ -642,7 +642,7 @@
     "name" : "JP",
     "passed" : true,
     "duration" : 11
-  }, [ {
+  }, {
     "name" : "M-1",
     "passed" : true,
     "duration" : 20
@@ -670,7 +670,7 @@
     "name" : "M-oth",
     "passed" : true,
     "duration" : 16
-  } ], [ {
+  }, {
     "name" : "R-C*",
     "passed" : false,
     "duration" : 10
@@ -686,7 +686,7 @@
     "name" : "R-R",
     "passed" : true,
     "duration" : 29
-  } ], [ {
+  }, {
     "name" : "T-c",
     "passed" : true,
     "duration" : 17
@@ -710,7 +710,7 @@
     "name" : "T-tp",
     "passed" : true,
     "duration" : 17
-  } ] ]
+  } ]
 }, {
   "platform" : "OS X 10.7 debug",
   "data" : [ {
@@ -729,7 +729,7 @@
     "name" : "JP",
     "passed" : true,
     "duration" : 34
-  }, [ {
+  }, {
     "name" : "M-1",
     "passed" : true,
     "duration" : 43
@@ -757,7 +757,7 @@
     "name" : "M-oth",
     "passed" : true,
     "duration" : 38
-  } ], [ {
+  }, {
     "name" : "R-C",
     "passed" : true,
     "duration" : 13
@@ -769,7 +769,7 @@
     "name" : "R-R",
     "passed" : true,
     "duration" : 53
-  } ] ]
+  } ]
 }, {
   "platform" : "OS X 10.8 opt",
   "data" : [ {
@@ -780,7 +780,7 @@
     "name" : "JP",
     "passed" : true,
     "duration" : 9
-  }, [ {
+  }, {
     "name" : "M-1",
     "passed" : true,
     "duration" : 17
@@ -808,7 +808,7 @@
     "name" : "M-oth",
     "passed" : true,
     "duration" : 15
-  } ], [ {
+  }, {
     "name" : "R-C",
     "passed" : true,
     "duration" : 8
@@ -820,7 +820,7 @@
     "name" : "R-R",
     "passed" : true,
     "duration" : 19
-  } ], [ {
+  }, {
     "name" : "T-c",
     "passed" : true,
     "duration" : 17
@@ -844,7 +844,7 @@
     "name" : "T-tp",
     "passed" : true,
     "duration" : 15
-  } ] ]
+  } ]
 }, {
   "platform" : "OS X 10.8 debug",
   "data" : [ {
@@ -859,7 +859,7 @@
     "name" : "JP",
     "passed" : true,
     "duration" : 26
-  }, [ {
+  }, {
     "name" : "M-1",
     "passed" : true,
     "duration" : 34
@@ -887,7 +887,7 @@
     "name" : "M-oth",
     "passed" : true,
     "duration" : 28
-  } ], [ {
+  }, {
     "name" : "R-C",
     "passed" : true,
     "duration" : 10
@@ -899,7 +899,7 @@
     "name" : "R-R",
     "passed" : true,
     "duration" : 39
-  } ] ]
+  } ]
 }, {
   "platform" : "WinXP opt",
   "data" : [ {
@@ -910,7 +910,7 @@
     "name" : "JP",
     "passed" : true,
     "duration" : 8
-  }, [ {
+  }, {
     "name" : "M-1",
     "passed" : true,
     "duration" : 20
@@ -938,7 +938,7 @@
     "name" : "M-oth",
     "passed" : true,
     "duration" : 15
-  } ], [ {
+  }, {
     "name" : "R-C",
     "passed" : true,
     "duration" : 6
@@ -950,7 +950,7 @@
     "name" : "R-R",
     "passed" : true,
     "duration" : 16
-  } ], [ {
+  }, {
     "name" : "T-c",
     "passed" : true,
     "duration" : 17
@@ -970,7 +970,7 @@
     "name" : "T-tp",
     "passed" : true,
     "duration" : 16
-  } ] ]
+  } ]
 }, {
   "platform" : "WinXP pgo",
   "data" : [ {
@@ -981,7 +981,7 @@
     "name" : "JP",
     "passed" : true,
     "duration" : 7
-  }, [ {
+  }, {
     "name" : "M-1",
     "passed" : true,
     "duration" : 19
@@ -1009,7 +1009,7 @@
     "name" : "M-oth",
     "passed" : true,
     "duration" : 14
-  } ], [ {
+  }, {
     "name" : "R-C",
     "passed" : true,
     "duration" : 6
@@ -1021,7 +1021,7 @@
     "name" : "R-R",
     "passed" : true,
     "duration" : 15
-  } ], [ {
+  }, {
     "name" : "T-c",
     "passed" : true,
     "duration" : 17
@@ -1041,7 +1041,7 @@
     "name" : "T-tp",
     "passed" : true,
     "duration" : 14
-  } ] ]
+  } ]
 }, {
   "platform" : "WinXP debug",
   "data" : [ {
@@ -1052,7 +1052,7 @@
     "name" : "JP",
     "passed" : true,
     "duration" : 18
-  }, [ {
+  }, {
     "name" : "M-1",
     "passed" : true,
     "duration" : 33
@@ -1080,7 +1080,7 @@
     "name" : "M-oth",
     "passed" : true,
     "duration" : 26
-  } ], [ {
+  }, {
     "name" : "R-C",
     "passed" : true,
     "duration" : 11
@@ -1092,7 +1092,7 @@
     "name" : "R-R",
     "passed" : true,
     "duration" : 36
-  } ] ]
+  } ]
 }, {
   "platform" : "Win7 opt",
   "data" : [ {
@@ -1107,7 +1107,7 @@
     "name" : "JP",
     "passed" : true,
     "duration" : 11
-  }, [ {
+  }, {
     "name" : "M-1",
     "passed" : true,
     "duration" : 23
@@ -1135,7 +1135,7 @@
     "name" : "M-oth",
     "passed" : true,
     "duration" : 15
-  } ], [ {
+  }, {
     "name" : "R-C",
     "passed" : true,
     "duration" : 9
@@ -1151,7 +1151,7 @@
     "name" : "R-Ru",
     "passed" : true,
     "duration" : 20
-  } ], [ {
+  }, {
     "name" : "T-c",
     "passed" : true,
     "duration" : 17
@@ -1179,7 +1179,7 @@
     "name" : "T-x",
     "passed" : true,
     "duration" : 10
-  } ] ]
+  } ]
 }, {
   "platform" : "Win7 pgo",
   "data" : [ {
@@ -1198,7 +1198,7 @@
     "name" : "JP",
     "passed" : true,
     "duration" : 10
-  }, [ {
+  }, {
     "name" : "M-1",
     "passed" : true,
     "duration" : 21
@@ -1226,7 +1226,7 @@
     "name" : "M-oth",
     "passed" : true,
     "duration" : 16
-  } ], [ {
+  }, {
     "name" : "R-C",
     "passed" : true,
     "duration" : 8
@@ -1242,7 +1242,7 @@
     "name" : "R-Ru",
     "passed" : true,
     "duration" : 24
-  } ], [ {
+  }, {
     "name" : "T-c",
     "passed" : true,
     "duration" : 25
@@ -1266,7 +1266,7 @@
     "name" : "T-tp",
     "passed" : true,
     "duration" : 16
-  } ] ]
+  } ]
 }, {
   "platform" : "Win7 debug",
   "data" : [ {
@@ -1281,7 +1281,7 @@
     "name" : "JP",
     "passed" : true,
     "duration" : 18
-  }, [ {
+  }, {
     "name" : "M-1",
     "passed" : true,
     "duration" : 36
@@ -1309,7 +1309,7 @@
     "name" : "M-oth",
     "passed" : true,
     "duration" : 27
-  } ], [ {
+  }, {
     "name" : "R-C",
     "passed" : true,
     "duration" : 12
@@ -1321,7 +1321,7 @@
     "name" : "R-R",
     "passed" : true,
     "duration" : 40
-  } ] ]
+  } ]
 }, {
   "platform" : "Win8 opt",
   "data" : [ {
@@ -1332,7 +1332,7 @@
     "name" : "JP",
     "passed" : true,
     "duration" : 11
-  }, [ {
+  }, {
     "name" : "M-1",
     "passed" : true,
     "duration" : 21
@@ -1364,7 +1364,7 @@
     "name" : "M-oth",
     "passed" : true,
     "duration" : 17
-  } ], [ {
+  }, {
     "name" : "R-C",
     "passed" : true,
     "duration" : 7
@@ -1380,7 +1380,7 @@
     "name" : "R-Ru",
     "passed" : true,
     "duration" : 17
-  } ], [ {
+  }, {
     "name" : "T-c",
     "passed" : true,
     "duration" : 18
@@ -1404,7 +1404,7 @@
     "name" : "T-tp",
     "passed" : true,
     "duration" : 16
-  } ] ]
+  } ]
 }, {
   "platform" : "Win8 pgo",
   "data" : [ {
@@ -1415,7 +1415,7 @@
     "name" : "JP",
     "passed" : true,
     "duration" : 10
-  }, [ {
+  }, {
     "name" : "M-1",
     "passed" : true,
     "duration" : 20
@@ -1451,7 +1451,7 @@
     "name" : "M-oth",
     "passed" : true,
     "duration" : 15
-  } ], [ {
+  }, {
     "name" : "R-C",
     "passed" : true,
     "duration" : 7
@@ -1467,7 +1467,7 @@
     "name" : "R-Ru",
     "passed" : true,
     "duration" : 16
-  } ], [ {
+  }, {
     "name" : "T-c",
     "passed" : true,
     "duration" : 18
@@ -1491,7 +1491,7 @@
     "name" : "T-tp",
     "passed" : true,
     "duration" : 16
-  } ] ]
+  } ]
 }, {
   "platform" : "Win8 debug",
   "data" : [ {
@@ -1502,7 +1502,7 @@
     "name" : "JP",
     "passed" : true,
     "duration" : 20
-  }, [ {
+  }, {
     "name" : "M-1",
     "passed" : true,
     "duration" : 35
@@ -1530,7 +1530,7 @@
     "name" : "M-oth",
     "passed" : true,
     "duration" : 28
-  } ], [ {
+  }, {
     "name" : "R-C",
     "passed" : true,
     "duration" : 12
@@ -1542,7 +1542,7 @@
     "name" : "R-R",
     "passed" : true,
     "duration" : 37
-  } ] ]
+  } ]
 }, {
   "platform" : "Android 2.2 x86 opt",
   "data" : [ {
@@ -1560,7 +1560,7 @@
     "name" : "X",
     "passed" : true,
     "duration" : 33
-  }, [ {
+  }, {
     "name" : "M-1",
     "passed" : true,
     "duration" : 15
@@ -1600,7 +1600,7 @@
     "name" : "M-rc2",
     "passed" : true,
     "duration" : 34
-  } ], [ {
+  }, {
     "name" : "R-C",
     "passed" : true,
     "duration" : 20
@@ -1632,14 +1632,14 @@
     "name" : "R-R4",
     "passed" : true,
     "duration" : 49
-  } ] ]
+  } ]
 }, {
   "platform" : "Android 2.2 NoIon opt",
   "data" : [ {
     "name" : "B",
     "passed" : true,
     "duration" : 72
-  }, [ {
+  }, {
     "name" : "R-J1",
     "passed" : true,
     "duration" : 23
@@ -1651,7 +1651,7 @@
     "name" : "R-J3",
     "passed" : true,
     "duration" : 40
-  } ] ]
+  } ]
 }, {
   "platform" : "Android 2.2 opt",
   "data" : [ {
@@ -1662,7 +1662,7 @@
     "name" : "X",
     "passed" : true,
     "duration" : 38
-  }, [ {
+  }, {
     "name" : "M-1",
     "passed" : true,
     "duration" : 15
@@ -1702,7 +1702,7 @@
     "name" : "M-rc2",
     "passed" : true,
     "duration" : 34
-  } ], [ {
+  }, {
     "name" : "R-C",
     "passed" : true,
     "duration" : 19
@@ -1734,7 +1734,7 @@
     "name" : "R-R4",
     "passed" : true,
     "duration" : 47
-  } ], [ {
+  }, {
     "name" : "T-rck2",
     "passed" : true,
     "duration" : 16
@@ -1758,7 +1758,7 @@
     "name" : "T-ts",
     "passed" : true,
     "duration" : 12
-  } ] ]
+  } ]
 }, {
   "platform" : "Android 2.2 debug",
   "data" : [ {
@@ -1772,7 +1772,7 @@
     "name" : "X",
     "passed" : true,
     "duration" : 40
-  }, [ {
+  }, {
     "name" : "M-1",
     "passed" : true,
     "duration" : 18
@@ -1820,7 +1820,7 @@
     "name" : "M-rc3",
     "passed" : true,
     "duration" : 27
-  } ], [ {
+  }, {
     "name" : "R-C",
     "passed" : true,
     "duration" : 24
@@ -1836,7 +1836,7 @@
     "name" : "R-J3",
     "passed" : true,
     "duration" : 25
-  } ], [ {
+  }, {
     "name" : "T-rck2",
     "passed" : true,
     "duration" : 20
@@ -1864,7 +1864,7 @@
     "name" : "T-ts",
     "passed" : true,
     "duration" : 21
-  } ] ]
+  } ]
 }, {
   "platform" : "B2G ICS Emu opt",
   "data" : [ {
@@ -1875,7 +1875,7 @@
     "name" : "Mn",
     "passed" : true,
     "duration" : 21
-  }, [ {
+  }, {
     "name" : "R-R1",
     "passed" : true,
     "duration" : 30
@@ -1915,7 +1915,7 @@
     "name" : "R-R9",
     "passed" : true,
     "duration" : 30
-  } ] ]
+  } ]
 }, {
   "platform" : "B2G ICS Emu debug",
   "data" : [ {
@@ -1929,7 +1929,7 @@
     "name" : "X",
     "passed" : true,
     "duration" : 6
-  }, [ {
+  }, {
     "name" : "M-1",
     "passed" : true,
     "duration" : 28
@@ -1969,7 +1969,7 @@
     "name" : "M-9",
     "passed" : true,
     "duration" : 29
-  } ], [ {
+  }, {
     "name" : "R-C1",
     "passed" : true,
     "duration" : 40
@@ -1981,7 +1981,7 @@
     "name" : "R-C3",
     "passed" : true,
     "duration" : 42
-  } ] ]
+  } ]
 }, {
   "platform" : "B2G JB Emu opt",
   "data" : [ {

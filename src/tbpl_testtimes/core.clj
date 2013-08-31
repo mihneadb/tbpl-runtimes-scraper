@@ -45,7 +45,7 @@
   {:platform (get-platform-name elem)
    :data (concat
           (map parse-single-result (get-nongrouped-results elem))
-          (map parse-grouped-result-flat (get-grouped-results elem)))})
+          (flatten (map parse-grouped-result-flat (get-grouped-results elem))))})
 
 (defn parse-results [page]
   (map parse-platform-results (html/select (get-results page) [:li])))
