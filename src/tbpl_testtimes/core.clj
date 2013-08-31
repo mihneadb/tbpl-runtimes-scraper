@@ -32,15 +32,20 @@
    :passed (= "success" (second (string/split (-> elem :attrs :class) #" ")))
    :duration (get-minutes (-> elem :attrs :title))})
 
-(defn parse-grouped-result [elem]
+(defn parse-grouped-result-structured [elem]
   {:name (-> elem :attrs :machinetype)
    :chunks (map parse-single-result (html/select elem [:a.machineResult]))})
+
+(defn parse-grouped-result-flat [elem]
+  (let [name (-> elem :attrs :machinetype)]
+    (map #(assoc % :name (str name "-" (:name %))) (map parse-single-result (html/select elem [:a.machineResult])))))
+
 
 (defn parse-platform-results [elem]
   {:platform (get-platform-name elem)
    :data (concat
           (map parse-single-result (get-nongrouped-results elem))
-          (map parse-grouped-result (get-grouped-results elem)))})
+          (map parse-grouped-result-flat (get-grouped-results elem)))})
 
 (defn parse-results [page]
   (map parse-platform-results (html/select (get-results page) [:li])))
