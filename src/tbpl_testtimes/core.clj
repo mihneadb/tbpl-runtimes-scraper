@@ -1,4 +1,4 @@
-(ns tbpl-testtimes.core
+(ns tbpl-testtimes-scraper.core
   (:require [net.cgrand.enlive-html :as html]
             [clojure.string :as string]
             [cheshire.core :as json])
