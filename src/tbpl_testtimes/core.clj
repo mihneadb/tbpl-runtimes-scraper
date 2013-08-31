@@ -1,7 +1,8 @@
 (ns tbpl-testtimes.core
   (:require [net.cgrand.enlive-html :as html]
             [clojure.string :as string]
-            [cheshire.core :as json]))
+            [cheshire.core :as json])
+  (:gen-class :main true))
 
 (defn load-page [path]
   (html/html-resource (java.io.File. path)))

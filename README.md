@@ -1,14 +1,12 @@
 # tbpl-testtimes
 
-A Clojure library designed to ... well, that part is up to you.
+Get JSON with test times data from TBPL html files.
+
+You need [lein](http://leiningen.org/). Or use the static jar in the tree.
 
 ## Usage
 
-FIXME
+`lein run /path/to/tbpl.html`
+or
+`java -jar tbpl-testtimes.jar /path/to/tbpl.html`
 
-## License
-
-Copyright © 2013 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
