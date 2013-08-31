@@ -17,3 +17,5 @@ or
 
 `java -jar tbpl-testtimes.jar /path/to/tbpl.html`
 
+You can visualize the data at http://www.mihneadb.net/tbpl-runtimes
+
