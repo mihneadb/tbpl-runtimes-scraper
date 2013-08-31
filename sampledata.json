@@ -1,0 +1,2213 @@
+[ {
+  "platform" : "Fedora opt",
+  "data" : [ {
+    "name" : "B",
+    "passed" : true,
+    "duration" : 118
+  }, {
+    "name" : "Bg",
+    "passed" : true,
+    "duration" : 112
+  } ]
+}, {
+  "platform" : "Fedora pgo",
+  "data" : [ {
+    "name" : "B",
+    "passed" : true,
+    "duration" : 202
+  } ]
+}, {
+  "platform" : "Fedora debug",
+  "data" : [ {
+    "name" : "B",
+    "passed" : true,
+    "duration" : 147
+  }, {
+    "name" : "M",
+    "chunks" : [ {
+      "name" : "bc",
+      "passed" : true,
+      "duration" : 119
+    } ]
+  } ]
+}, {
+  "platform" : "Fedora64 opt",
+  "data" : [ {
+    "name" : "B",
+    "passed" : true,
+    "duration" : 125
+  }, {
+    "name" : "Bg",
+    "passed" : true,
+    "duration" : 89
+  } ]
+}, {
+  "platform" : "Fedora64 pgo",
+  "data" : [ {
+    "name" : "B",
+    "passed" : true,
+    "duration" : 201
+  } ]
+}, {
+  "platform" : "Fedora64 debug",
+  "data" : [ {
+    "name" : "B",
+    "passed" : true,
+    "duration" : 141
+  }, {
+    "name" : "M",
+    "chunks" : [ {
+      "name" : "bc",
+      "passed" : true,
+      "duration" : 95
+    } ]
+  } ]
+}, {
+  "platform" : "Ubuntu opt",
+  "data" : [ {
+    "name" : "X",
+    "passed" : true,
+    "duration" : 21
+  }, {
+    "name" : "JP",
+    "passed" : true,
+    "duration" : 10
+  }, {
+    "name" : "M",
+    "chunks" : [ {
+      "name" : "1",
+      "passed" : true,
+      "duration" : 33
+    }, {
+      "name" : "2",
+      "passed" : true,
+      "duration" : 10
+    }, {
+      "name" : "3",
+      "passed" : true,
+      "duration" : 25
+    }, {
+      "name" : "4",
+      "passed" : true,
+      "duration" : 8
+    }, {
+      "name" : "5",
+      "passed" : true,
+      "duration" : 18
+    }, {
+      "name" : "bc",
+      "passed" : true,
+      "duration" : 48
+    }, {
+      "name" : "oth",
+      "passed" : true,
+      "duration" : 40
+    } ]
+  }, {
+    "name" : "R",
+    "chunks" : [ {
+      "name" : "C",
+      "passed" : true,
+      "duration" : 9
+    }, {
+      "name" : "Cipc",
+      "passed" : true,
+      "duration" : 10
+    }, {
+      "name" : "J",
+      "passed" : true,
+      "duration" : 21
+    }, {
+      "name" : "R",
+      "passed" : true,
+      "duration" : 77
+    }, {
+      "name" : "Ru",
+      "passed" : true,
+      "duration" : 76
+    }, {
+      "name" : "Ripc",
+      "passed" : true,
+      "duration" : 3
+    } ]
+  }, {
+    "name" : "T",
+    "chunks" : [ {
+      "name" : "c",
+      "passed" : true,
+      "duration" : 16
+    }, {
+      "name" : "d",
+      "passed" : true,
+      "duration" : 25
+    }, {
+      "name" : "o",
+      "passed" : true,
+      "duration" : 17
+    }, {
+      "name" : "p",
+      "passed" : true,
+      "duration" : 13
+    }, {
+      "name" : "s",
+      "passed" : true,
+      "duration" : 16
+    }, {
+      "name" : "tp",
+      "passed" : true,
+      "duration" : 15
+    } ]
+  } ]
+}, {
+  "platform" : "Ubuntu pgo",
+  "data" : [ {
+    "name" : "X",
+    "passed" : true,
+    "duration" : 20
+  }, {
+    "name" : "JP",
+    "passed" : true,
+    "duration" : 10
+  }, {
+    "name" : "M",
+    "chunks" : [ {
+      "name" : "1",
+      "passed" : true,
+      "duration" : 34
+    }, {
+      "name" : "2",
+      "passed" : true,
+      "duration" : 10
+    }, {
+      "name" : "3",
+      "passed" : true,
+      "duration" : 24
+    }, {
+      "name" : "4",
+      "passed" : true,
+      "duration" : 8
+    }, {
+      "name" : "5",
+      "passed" : true,
+      "duration" : 17
+    }, {
+      "name" : "bc",
+      "passed" : true,
+      "duration" : 45
+    }, {
+      "name" : "oth",
+      "passed" : true,
+      "duration" : 21
+    } ]
+  }, {
+    "name" : "R",
+    "chunks" : [ {
+      "name" : "C",
+      "passed" : true,
+      "duration" : 9
+    }, {
+      "name" : "Cipc",
+      "passed" : true,
+      "duration" : 9
+    }, {
+      "name" : "J",
+      "passed" : true,
+      "duration" : 20
+    }, {
+      "name" : "R",
+      "passed" : true,
+      "duration" : 67
+    }, {
+      "name" : "Ru",
+      "passed" : true,
+      "duration" : 76
+    }, {
+      "name" : "Ripc",
+      "passed" : true,
+      "duration" : 3
+    } ]
+  }, {
+    "name" : "T",
+    "chunks" : [ {
+      "name" : "c",
+      "passed" : true,
+      "duration" : 16
+    }, {
+      "name" : "d",
+      "passed" : true,
+      "duration" : 25
+    }, {
+      "name" : "o",
+      "passed" : true,
+      "duration" : 16
+    }, {
+      "name" : "p",
+      "passed" : true,
+      "duration" : 12
+    }, {
+      "name" : "s*",
+      "passed" : false,
+      "duration" : 17
+    }, {
+      "name" : "s*",
+      "passed" : false,
+      "duration" : 17
+    }, {
+      "name" : "s",
+      "passed" : true,
+      "duration" : 15
+    }, {
+      "name" : "tp",
+      "passed" : true,
+      "duration" : 14
+    } ]
+  } ]
+}, {
+  "platform" : "Ubuntu debug",
+  "data" : [ {
+    "name" : "Mn",
+    "passed" : true,
+    "duration" : 6
+  }, {
+    "name" : "X",
+    "passed" : true,
+    "duration" : 41
+  }, {
+    "name" : "JP",
+    "passed" : true,
+    "duration" : 27
+  }, {
+    "name" : "M",
+    "chunks" : [ {
+      "name" : "1",
+      "passed" : true,
+      "duration" : 59
+    }, {
+      "name" : "2",
+      "passed" : true,
+      "duration" : 19
+    }, {
+      "name" : "3",
+      "passed" : true,
+      "duration" : 47
+    }, {
+      "name" : "4",
+      "passed" : true,
+      "duration" : 14
+    }, {
+      "name" : "5",
+      "passed" : true,
+      "duration" : 27
+    }, {
+      "name" : "oth",
+      "passed" : true,
+      "duration" : 40
+    } ]
+  }, {
+    "name" : "R",
+    "chunks" : [ {
+      "name" : "C",
+      "passed" : true,
+      "duration" : 21
+    }, {
+      "name" : "J",
+      "passed" : true,
+      "duration" : 39
+    }, {
+      "name" : "R",
+      "passed" : true,
+      "duration" : 100
+    } ]
+  } ]
+}, {
+  "platform" : "Ubuntu64 opt",
+  "data" : [ {
+    "name" : "Gu",
+    "passed" : true,
+    "duration" : 8
+  }, {
+    "name" : "X",
+    "passed" : true,
+    "duration" : 20
+  }, {
+    "name" : "JP",
+    "passed" : true,
+    "duration" : 14
+  }, {
+    "name" : "M",
+    "chunks" : [ {
+      "name" : "1",
+      "passed" : true,
+      "duration" : 26
+    }, {
+      "name" : "2",
+      "passed" : true,
+      "duration" : 10
+    }, {
+      "name" : "3",
+      "passed" : true,
+      "duration" : 23
+    }, {
+      "name" : "4",
+      "passed" : true,
+      "duration" : 7
+    }, {
+      "name" : "5",
+      "passed" : true,
+      "duration" : 10
+    }, {
+      "name" : "bc",
+      "passed" : true,
+      "duration" : 38
+    }, {
+      "name" : "oth",
+      "passed" : true,
+      "duration" : 18
+    } ]
+  }, {
+    "name" : "R",
+    "chunks" : [ {
+      "name" : "C",
+      "passed" : true,
+      "duration" : 7
+    }, {
+      "name" : "J",
+      "passed" : true,
+      "duration" : 16
+    }, {
+      "name" : "R",
+      "passed" : true,
+      "duration" : 38
+    } ]
+  }, {
+    "name" : "T",
+    "chunks" : [ {
+      "name" : "c",
+      "passed" : true,
+      "duration" : 16
+    }, {
+      "name" : "d",
+      "passed" : true,
+      "duration" : 25
+    }, {
+      "name" : "o",
+      "passed" : true,
+      "duration" : 16
+    }, {
+      "name" : "p",
+      "passed" : true,
+      "duration" : 12
+    }, {
+      "name" : "s",
+      "passed" : true,
+      "duration" : 14
+    }, {
+      "name" : "tp",
+      "passed" : true,
+      "duration" : 14
+    } ]
+  } ]
+}, {
+  "platform" : "Ubuntu64 pgo",
+  "data" : [ {
+    "name" : "X",
+    "passed" : true,
+    "duration" : 19
+  }, {
+    "name" : "JP",
+    "passed" : true,
+    "duration" : 10
+  }, {
+    "name" : "M",
+    "chunks" : [ {
+      "name" : "1",
+      "passed" : true,
+      "duration" : 25
+    }, {
+      "name" : "2",
+      "passed" : true,
+      "duration" : 9
+    }, {
+      "name" : "3",
+      "passed" : true,
+      "duration" : 22
+    }, {
+      "name" : "4",
+      "passed" : true,
+      "duration" : 7
+    }, {
+      "name" : "5",
+      "passed" : true,
+      "duration" : 11
+    }, {
+      "name" : "bc",
+      "passed" : true,
+      "duration" : 38
+    }, {
+      "name" : "oth",
+      "passed" : true,
+      "duration" : 17
+    } ]
+  }, {
+    "name" : "R",
+    "chunks" : [ {
+      "name" : "C",
+      "passed" : true,
+      "duration" : 9
+    }, {
+      "name" : "J",
+      "passed" : true,
+      "duration" : 15
+    }, {
+      "name" : "R",
+      "passed" : true,
+      "duration" : 40
+    } ]
+  }, {
+    "name" : "T",
+    "chunks" : [ {
+      "name" : "c",
+      "passed" : true,
+      "duration" : 16
+    }, {
+      "name" : "d",
+      "passed" : true,
+      "duration" : 25
+    }, {
+      "name" : "o",
+      "passed" : true,
+      "duration" : 16
+    }, {
+      "name" : "p",
+      "passed" : true,
+      "duration" : 12
+    }, {
+      "name" : "s",
+      "passed" : true,
+      "duration" : 14
+    }, {
+      "name" : "tp",
+      "passed" : true,
+      "duration" : 13
+    } ]
+  } ]
+}, {
+  "platform" : "Ubuntu64 debug",
+  "data" : [ {
+    "name" : "Mn",
+    "passed" : true,
+    "duration" : 7
+  }, {
+    "name" : "X",
+    "passed" : true,
+    "duration" : 35
+  }, {
+    "name" : "JP",
+    "passed" : true,
+    "duration" : 20
+  }, {
+    "name" : "M",
+    "chunks" : [ {
+      "name" : "1",
+      "passed" : true,
+      "duration" : 44
+    }, {
+      "name" : "2*",
+      "passed" : false,
+      "duration" : 30
+    }, {
+      "name" : "3",
+      "passed" : true,
+      "duration" : 38
+    }, {
+      "name" : "4",
+      "passed" : true,
+      "duration" : 12
+    }, {
+      "name" : "5",
+      "passed" : true,
+      "duration" : 17
+    }, {
+      "name" : "oth",
+      "passed" : true,
+      "duration" : 36
+    } ]
+  }, {
+    "name" : "R",
+    "chunks" : [ {
+      "name" : "C",
+      "passed" : true,
+      "duration" : 15
+    }, {
+      "name" : "J",
+      "passed" : true,
+      "duration" : 27
+    }, {
+      "name" : "R",
+      "passed" : true,
+      "duration" : 51
+    } ]
+  } ]
+}, {
+  "platform" : "OS X 10.6 opt",
+  "data" : [ {
+    "name" : "Bg",
+    "passed" : true,
+    "duration" : 67
+  }, {
+    "name" : "X",
+    "passed" : true,
+    "duration" : 15
+  }, {
+    "name" : "JP",
+    "passed" : true,
+    "duration" : 11
+  }, {
+    "name" : "M",
+    "chunks" : [ {
+      "name" : "1",
+      "passed" : true,
+      "duration" : 20
+    }, {
+      "name" : "2",
+      "passed" : true,
+      "duration" : 10
+    }, {
+      "name" : "3",
+      "passed" : true,
+      "duration" : 19
+    }, {
+      "name" : "4",
+      "passed" : true,
+      "duration" : 7
+    }, {
+      "name" : "5",
+      "passed" : true,
+      "duration" : 10
+    }, {
+      "name" : "bc",
+      "passed" : true,
+      "duration" : 39
+    }, {
+      "name" : "oth",
+      "passed" : true,
+      "duration" : 16
+    } ]
+  }, {
+    "name" : "R",
+    "chunks" : [ {
+      "name" : "C",
+      "passed" : true,
+      "duration" : 9
+    }, {
+      "name" : "J",
+      "passed" : true,
+      "duration" : 11
+    }, {
+      "name" : "R",
+      "passed" : true,
+      "duration" : 30
+    } ]
+  }, {
+    "name" : "T",
+    "chunks" : [ {
+      "name" : "c",
+      "passed" : true,
+      "duration" : 16
+    }, {
+      "name" : "d",
+      "passed" : true,
+      "duration" : 26
+    }, {
+      "name" : "o",
+      "passed" : true,
+      "duration" : 23
+    }, {
+      "name" : "p",
+      "passed" : true,
+      "duration" : 13
+    }, {
+      "name" : "s",
+      "passed" : true,
+      "duration" : 16
+    }, {
+      "name" : "tp",
+      "passed" : true,
+      "duration" : 17
+    } ]
+  } ]
+}, {
+  "platform" : "OS X 10.6 debug",
+  "data" : [ {
+    "name" : "Mn",
+    "passed" : true,
+    "duration" : 6
+  }, {
+    "name" : "X",
+    "passed" : true,
+    "duration" : 19
+  }, {
+    "name" : "JP",
+    "passed" : true,
+    "duration" : 30
+  }, {
+    "name" : "M",
+    "chunks" : [ {
+      "name" : "1",
+      "passed" : true,
+      "duration" : 41
+    }, {
+      "name" : "2",
+      "passed" : true,
+      "duration" : 21
+    }, {
+      "name" : "3",
+      "passed" : true,
+      "duration" : 37
+    }, {
+      "name" : "4",
+      "passed" : true,
+      "duration" : 12
+    }, {
+      "name" : "5",
+      "passed" : true,
+      "duration" : 18
+    }, {
+      "name" : "bc",
+      "passed" : true,
+      "duration" : 123
+    }, {
+      "name" : "oth",
+      "passed" : true,
+      "duration" : 34
+    } ]
+  }, {
+    "name" : "R",
+    "chunks" : [ {
+      "name" : "C",
+      "passed" : true,
+      "duration" : 13
+    }, {
+      "name" : "J",
+      "passed" : true,
+      "duration" : 25
+    }, {
+      "name" : "R",
+      "passed" : true,
+      "duration" : 51
+    } ]
+  } ]
+}, {
+  "platform" : "OS X 10.7 opt",
+  "data" : [ {
+    "name" : "B",
+    "passed" : true,
+    "duration" : 127
+  }, {
+    "name" : "X",
+    "passed" : true,
+    "duration" : 15
+  }, {
+    "name" : "JP",
+    "passed" : true,
+    "duration" : 11
+  }, {
+    "name" : "M",
+    "chunks" : [ {
+      "name" : "1",
+      "passed" : true,
+      "duration" : 20
+    }, {
+      "name" : "2",
+      "passed" : true,
+      "duration" : 12
+    }, {
+      "name" : "3",
+      "passed" : true,
+      "duration" : 19
+    }, {
+      "name" : "4*",
+      "passed" : false,
+      "duration" : 5
+    }, {
+      "name" : "5",
+      "passed" : true,
+      "duration" : 9
+    }, {
+      "name" : "bc",
+      "passed" : true,
+      "duration" : 37
+    }, {
+      "name" : "oth",
+      "passed" : true,
+      "duration" : 16
+    } ]
+  }, {
+    "name" : "R",
+    "chunks" : [ {
+      "name" : "C*",
+      "passed" : false,
+      "duration" : 10
+    }, {
+      "name" : "C",
+      "passed" : true,
+      "duration" : 9
+    }, {
+      "name" : "J",
+      "passed" : true,
+      "duration" : 11
+    }, {
+      "name" : "R",
+      "passed" : true,
+      "duration" : 29
+    } ]
+  }, {
+    "name" : "T",
+    "chunks" : [ {
+      "name" : "c",
+      "passed" : true,
+      "duration" : 17
+    }, {
+      "name" : "d",
+      "passed" : true,
+      "duration" : 27
+    }, {
+      "name" : "o*",
+      "passed" : false,
+      "duration" : 61
+    }, {
+      "name" : "o",
+      "passed" : true,
+      "duration" : 21
+    }, {
+      "name" : "p",
+      "passed" : true,
+      "duration" : 13
+    }, {
+      "name" : "tp",
+      "passed" : true,
+      "duration" : 17
+    } ]
+  } ]
+}, {
+  "platform" : "OS X 10.7 debug",
+  "data" : [ {
+    "name" : "B",
+    "passed" : true,
+    "duration" : 91
+  }, {
+    "name" : "Mn",
+    "passed" : true,
+    "duration" : 6
+  }, {
+    "name" : "X",
+    "passed" : true,
+    "duration" : 21
+  }, {
+    "name" : "JP",
+    "passed" : true,
+    "duration" : 34
+  }, {
+    "name" : "M",
+    "chunks" : [ {
+      "name" : "1",
+      "passed" : true,
+      "duration" : 43
+    }, {
+      "name" : "2",
+      "passed" : true,
+      "duration" : 22
+    }, {
+      "name" : "3",
+      "passed" : true,
+      "duration" : 57
+    }, {
+      "name" : "4",
+      "passed" : true,
+      "duration" : 12
+    }, {
+      "name" : "5",
+      "passed" : true,
+      "duration" : 19
+    }, {
+      "name" : "bc",
+      "passed" : true,
+      "duration" : 137
+    }, {
+      "name" : "oth",
+      "passed" : true,
+      "duration" : 38
+    } ]
+  }, {
+    "name" : "R",
+    "chunks" : [ {
+      "name" : "C",
+      "passed" : true,
+      "duration" : 13
+    }, {
+      "name" : "J",
+      "passed" : true,
+      "duration" : 24
+    }, {
+      "name" : "R",
+      "passed" : true,
+      "duration" : 53
+    } ]
+  } ]
+}, {
+  "platform" : "OS X 10.8 opt",
+  "data" : [ {
+    "name" : "X",
+    "passed" : true,
+    "duration" : 12
+  }, {
+    "name" : "JP",
+    "passed" : true,
+    "duration" : 9
+  }, {
+    "name" : "M",
+    "chunks" : [ {
+      "name" : "1",
+      "passed" : true,
+      "duration" : 17
+    }, {
+      "name" : "2",
+      "passed" : true,
+      "duration" : 9
+    }, {
+      "name" : "3",
+      "passed" : true,
+      "duration" : 19
+    }, {
+      "name" : "4",
+      "passed" : true,
+      "duration" : 7
+    }, {
+      "name" : "5",
+      "passed" : true,
+      "duration" : 9
+    }, {
+      "name" : "bc",
+      "passed" : true,
+      "duration" : 29
+    }, {
+      "name" : "oth",
+      "passed" : true,
+      "duration" : 15
+    } ]
+  }, {
+    "name" : "R",
+    "chunks" : [ {
+      "name" : "C",
+      "passed" : true,
+      "duration" : 8
+    }, {
+      "name" : "J",
+      "passed" : true,
+      "duration" : 10
+    }, {
+      "name" : "R",
+      "passed" : true,
+      "duration" : 19
+    } ]
+  }, {
+    "name" : "T",
+    "chunks" : [ {
+      "name" : "c",
+      "passed" : true,
+      "duration" : 17
+    }, {
+      "name" : "d",
+      "passed" : true,
+      "duration" : 26
+    }, {
+      "name" : "o",
+      "passed" : true,
+      "duration" : 16
+    }, {
+      "name" : "p",
+      "passed" : true,
+      "duration" : 14
+    }, {
+      "name" : "s",
+      "passed" : true,
+      "duration" : 15
+    }, {
+      "name" : "tp",
+      "passed" : true,
+      "duration" : 15
+    } ]
+  } ]
+}, {
+  "platform" : "OS X 10.8 debug",
+  "data" : [ {
+    "name" : "Mn",
+    "passed" : true,
+    "duration" : 6
+  }, {
+    "name" : "X",
+    "passed" : true,
+    "duration" : 14
+  }, {
+    "name" : "JP",
+    "passed" : true,
+    "duration" : 26
+  }, {
+    "name" : "M",
+    "chunks" : [ {
+      "name" : "1",
+      "passed" : true,
+      "duration" : 34
+    }, {
+      "name" : "2",
+      "passed" : true,
+      "duration" : 18
+    }, {
+      "name" : "3",
+      "passed" : true,
+      "duration" : 31
+    }, {
+      "name" : "4",
+      "passed" : true,
+      "duration" : 10
+    }, {
+      "name" : "5",
+      "passed" : true,
+      "duration" : 15
+    }, {
+      "name" : "bc",
+      "passed" : true,
+      "duration" : 105
+    }, {
+      "name" : "oth",
+      "passed" : true,
+      "duration" : 28
+    } ]
+  }, {
+    "name" : "R",
+    "chunks" : [ {
+      "name" : "C",
+      "passed" : true,
+      "duration" : 10
+    }, {
+      "name" : "J",
+      "passed" : true,
+      "duration" : 21
+    }, {
+      "name" : "R",
+      "passed" : true,
+      "duration" : 39
+    } ]
+  } ]
+}, {
+  "platform" : "WinXP opt",
+  "data" : [ {
+    "name" : "X",
+    "passed" : true,
+    "duration" : 10
+  }, {
+    "name" : "JP",
+    "passed" : true,
+    "duration" : 8
+  }, {
+    "name" : "M",
+    "chunks" : [ {
+      "name" : "1",
+      "passed" : true,
+      "duration" : 20
+    }, {
+      "name" : "2",
+      "passed" : true,
+      "duration" : 9
+    }, {
+      "name" : "3",
+      "passed" : true,
+      "duration" : 19
+    }, {
+      "name" : "4",
+      "passed" : true,
+      "duration" : 6
+    }, {
+      "name" : "5",
+      "passed" : true,
+      "duration" : 8
+    }, {
+      "name" : "bc",
+      "passed" : true,
+      "duration" : 29
+    }, {
+      "name" : "oth",
+      "passed" : true,
+      "duration" : 15
+    } ]
+  }, {
+    "name" : "R",
+    "chunks" : [ {
+      "name" : "C",
+      "passed" : true,
+      "duration" : 6
+    }, {
+      "name" : "J",
+      "passed" : true,
+      "duration" : 10
+    }, {
+      "name" : "R",
+      "passed" : true,
+      "duration" : 16
+    } ]
+  }, {
+    "name" : "T",
+    "chunks" : [ {
+      "name" : "c",
+      "passed" : true,
+      "duration" : 17
+    }, {
+      "name" : "o",
+      "passed" : true,
+      "duration" : 15
+    }, {
+      "name" : "p",
+      "passed" : true,
+      "duration" : 14
+    }, {
+      "name" : "s",
+      "passed" : true,
+      "duration" : 17
+    }, {
+      "name" : "tp",
+      "passed" : true,
+      "duration" : 16
+    } ]
+  } ]
+}, {
+  "platform" : "WinXP pgo",
+  "data" : [ {
+    "name" : "X",
+    "passed" : true,
+    "duration" : 9
+  }, {
+    "name" : "JP",
+    "passed" : true,
+    "duration" : 7
+  }, {
+    "name" : "M",
+    "chunks" : [ {
+      "name" : "1",
+      "passed" : true,
+      "duration" : 19
+    }, {
+      "name" : "2",
+      "passed" : true,
+      "duration" : 7
+    }, {
+      "name" : "3",
+      "passed" : true,
+      "duration" : 18
+    }, {
+      "name" : "4",
+      "passed" : true,
+      "duration" : 5
+    }, {
+      "name" : "5",
+      "passed" : true,
+      "duration" : 7
+    }, {
+      "name" : "bc",
+      "passed" : true,
+      "duration" : 25
+    }, {
+      "name" : "oth",
+      "passed" : true,
+      "duration" : 14
+    } ]
+  }, {
+    "name" : "R",
+    "chunks" : [ {
+      "name" : "C",
+      "passed" : true,
+      "duration" : 6
+    }, {
+      "name" : "J",
+      "passed" : true,
+      "duration" : 9
+    }, {
+      "name" : "R",
+      "passed" : true,
+      "duration" : 15
+    } ]
+  }, {
+    "name" : "T",
+    "chunks" : [ {
+      "name" : "c",
+      "passed" : true,
+      "duration" : 17
+    }, {
+      "name" : "o",
+      "passed" : true,
+      "duration" : 15
+    }, {
+      "name" : "p",
+      "passed" : true,
+      "duration" : 13
+    }, {
+      "name" : "s",
+      "passed" : true,
+      "duration" : 17
+    }, {
+      "name" : "tp",
+      "passed" : true,
+      "duration" : 14
+    } ]
+  } ]
+}, {
+  "platform" : "WinXP debug",
+  "data" : [ {
+    "name" : "X",
+    "passed" : true,
+    "duration" : 11
+  }, {
+    "name" : "JP",
+    "passed" : true,
+    "duration" : 18
+  }, {
+    "name" : "M",
+    "chunks" : [ {
+      "name" : "1",
+      "passed" : true,
+      "duration" : 33
+    }, {
+      "name" : "2",
+      "passed" : true,
+      "duration" : 16
+    }, {
+      "name" : "3",
+      "passed" : true,
+      "duration" : 29
+    }, {
+      "name" : "4",
+      "passed" : true,
+      "duration" : 9
+    }, {
+      "name" : "5",
+      "passed" : true,
+      "duration" : 13
+    }, {
+      "name" : "bc",
+      "passed" : true,
+      "duration" : 78
+    }, {
+      "name" : "oth",
+      "passed" : true,
+      "duration" : 26
+    } ]
+  }, {
+    "name" : "R",
+    "chunks" : [ {
+      "name" : "C",
+      "passed" : true,
+      "duration" : 11
+    }, {
+      "name" : "J",
+      "passed" : true,
+      "duration" : 23
+    }, {
+      "name" : "R",
+      "passed" : true,
+      "duration" : 36
+    } ]
+  } ]
+}, {
+  "platform" : "Win7 opt",
+  "data" : [ {
+    "name" : "B*",
+    "passed" : false,
+    "duration" : 102
+  }, {
+    "name" : "X*",
+    "passed" : false,
+    "duration" : 19
+  }, {
+    "name" : "JP",
+    "passed" : true,
+    "duration" : 11
+  }, {
+    "name" : "M",
+    "chunks" : [ {
+      "name" : "1",
+      "passed" : true,
+      "duration" : 23
+    }, {
+      "name" : "2",
+      "passed" : true,
+      "duration" : 11
+    }, {
+      "name" : "3",
+      "passed" : true,
+      "duration" : 29
+    }, {
+      "name" : "4",
+      "passed" : true,
+      "duration" : 7
+    }, {
+      "name" : "5",
+      "passed" : true,
+      "duration" : 9
+    }, {
+      "name" : "bc",
+      "passed" : true,
+      "duration" : 29
+    }, {
+      "name" : "oth",
+      "passed" : true,
+      "duration" : 15
+    } ]
+  }, {
+    "name" : "R",
+    "chunks" : [ {
+      "name" : "C",
+      "passed" : true,
+      "duration" : 9
+    }, {
+      "name" : "J",
+      "passed" : true,
+      "duration" : 11
+    }, {
+      "name" : "R",
+      "passed" : true,
+      "duration" : 18
+    }, {
+      "name" : "Ru",
+      "passed" : true,
+      "duration" : 20
+    } ]
+  }, {
+    "name" : "T",
+    "chunks" : [ {
+      "name" : "c",
+      "passed" : true,
+      "duration" : 17
+    }, {
+      "name" : "d",
+      "passed" : true,
+      "duration" : 30
+    }, {
+      "name" : "o",
+      "passed" : true,
+      "duration" : 26
+    }, {
+      "name" : "p",
+      "passed" : true,
+      "duration" : 15
+    }, {
+      "name" : "s",
+      "passed" : true,
+      "duration" : 15
+    }, {
+      "name" : "tp",
+      "passed" : true,
+      "duration" : 17
+    }, {
+      "name" : "x",
+      "passed" : true,
+      "duration" : 10
+    } ]
+  } ]
+}, {
+  "platform" : "Win7 pgo",
+  "data" : [ {
+    "name" : "B",
+    "passed" : true,
+    "duration" : 249
+  }, {
+    "name" : "X*",
+    "passed" : false,
+    "duration" : 39
+  }, {
+    "name" : "X",
+    "passed" : true,
+    "duration" : 17
+  }, {
+    "name" : "JP",
+    "passed" : true,
+    "duration" : 10
+  }, {
+    "name" : "M",
+    "chunks" : [ {
+      "name" : "1",
+      "passed" : true,
+      "duration" : 21
+    }, {
+      "name" : "2",
+      "passed" : true,
+      "duration" : 9
+    }, {
+      "name" : "3",
+      "passed" : true,
+      "duration" : 21
+    }, {
+      "name" : "4",
+      "passed" : true,
+      "duration" : 6
+    }, {
+      "name" : "5",
+      "passed" : true,
+      "duration" : 9
+    }, {
+      "name" : "bc",
+      "passed" : true,
+      "duration" : 27
+    }, {
+      "name" : "oth",
+      "passed" : true,
+      "duration" : 16
+    } ]
+  }, {
+    "name" : "R",
+    "chunks" : [ {
+      "name" : "C",
+      "passed" : true,
+      "duration" : 8
+    }, {
+      "name" : "J",
+      "passed" : true,
+      "duration" : 9
+    }, {
+      "name" : "R",
+      "passed" : true,
+      "duration" : 17
+    }, {
+      "name" : "Ru",
+      "passed" : true,
+      "duration" : 24
+    } ]
+  }, {
+    "name" : "T",
+    "chunks" : [ {
+      "name" : "c",
+      "passed" : true,
+      "duration" : 25
+    }, {
+      "name" : "d",
+      "passed" : true,
+      "duration" : 29
+    }, {
+      "name" : "o",
+      "passed" : true,
+      "duration" : 23
+    }, {
+      "name" : "p",
+      "passed" : true,
+      "duration" : 26
+    }, {
+      "name" : "s",
+      "passed" : true,
+      "duration" : 17
+    }, {
+      "name" : "tp",
+      "passed" : true,
+      "duration" : 16
+    } ]
+  } ]
+}, {
+  "platform" : "Win7 debug",
+  "data" : [ {
+    "name" : "B",
+    "passed" : true,
+    "duration" : 178
+  }, {
+    "name" : "X",
+    "passed" : true,
+    "duration" : 20
+  }, {
+    "name" : "JP",
+    "passed" : true,
+    "duration" : 18
+  }, {
+    "name" : "M",
+    "chunks" : [ {
+      "name" : "1",
+      "passed" : true,
+      "duration" : 36
+    }, {
+      "name" : "2",
+      "passed" : true,
+      "duration" : 16
+    }, {
+      "name" : "3",
+      "passed" : true,
+      "duration" : 32
+    }, {
+      "name" : "4",
+      "passed" : true,
+      "duration" : 10
+    }, {
+      "name" : "5",
+      "passed" : true,
+      "duration" : 14
+    }, {
+      "name" : "bc",
+      "passed" : true,
+      "duration" : 84
+    }, {
+      "name" : "oth",
+      "passed" : true,
+      "duration" : 27
+    } ]
+  }, {
+    "name" : "R",
+    "chunks" : [ {
+      "name" : "C",
+      "passed" : true,
+      "duration" : 12
+    }, {
+      "name" : "J",
+      "passed" : true,
+      "duration" : 24
+    }, {
+      "name" : "R",
+      "passed" : true,
+      "duration" : 40
+    } ]
+  } ]
+}, {
+  "platform" : "Win8 opt",
+  "data" : [ {
+    "name" : "X",
+    "passed" : true,
+    "duration" : 31
+  }, {
+    "name" : "JP",
+    "passed" : true,
+    "duration" : 11
+  }, {
+    "name" : "M",
+    "chunks" : [ {
+      "name" : "1",
+      "passed" : true,
+      "duration" : 21
+    }, {
+      "name" : "2",
+      "passed" : true,
+      "duration" : 11
+    }, {
+      "name" : "3",
+      "passed" : true,
+      "duration" : 23
+    }, {
+      "name" : "4",
+      "passed" : true,
+      "duration" : 7
+    }, {
+      "name" : "5",
+      "passed" : true,
+      "duration" : 11
+    }, {
+      "name" : "bc",
+      "passed" : true,
+      "duration" : 34
+    }, {
+      "name" : "mc",
+      "passed" : true,
+      "duration" : 7
+    }, {
+      "name" : "oth",
+      "passed" : true,
+      "duration" : 17
+    } ]
+  }, {
+    "name" : "R",
+    "chunks" : [ {
+      "name" : "C",
+      "passed" : true,
+      "duration" : 7
+    }, {
+      "name" : "J",
+      "passed" : true,
+      "duration" : 11
+    }, {
+      "name" : "R",
+      "passed" : true,
+      "duration" : 18
+    }, {
+      "name" : "Ru",
+      "passed" : true,
+      "duration" : 17
+    } ]
+  }, {
+    "name" : "T",
+    "chunks" : [ {
+      "name" : "c",
+      "passed" : true,
+      "duration" : 18
+    }, {
+      "name" : "d",
+      "passed" : true,
+      "duration" : 30
+    }, {
+      "name" : "o",
+      "passed" : true,
+      "duration" : 17
+    }, {
+      "name" : "p",
+      "passed" : true,
+      "duration" : 15
+    }, {
+      "name" : "s",
+      "passed" : true,
+      "duration" : 14
+    }, {
+      "name" : "tp",
+      "passed" : true,
+      "duration" : 16
+    } ]
+  } ]
+}, {
+  "platform" : "Win8 pgo",
+  "data" : [ {
+    "name" : "X",
+    "passed" : true,
+    "duration" : 32
+  }, {
+    "name" : "JP",
+    "passed" : true,
+    "duration" : 10
+  }, {
+    "name" : "M",
+    "chunks" : [ {
+      "name" : "1",
+      "passed" : true,
+      "duration" : 20
+    }, {
+      "name" : "2",
+      "passed" : true,
+      "duration" : 10
+    }, {
+      "name" : "3",
+      "passed" : true,
+      "duration" : 22
+    }, {
+      "name" : "4",
+      "passed" : true,
+      "duration" : 6
+    }, {
+      "name" : "5",
+      "passed" : true,
+      "duration" : 8
+    }, {
+      "name" : "bc",
+      "passed" : true,
+      "duration" : 29
+    }, {
+      "name" : "mc",
+      "passed" : false,
+      "duration" : 3
+    }, {
+      "name" : "mc",
+      "passed" : true,
+      "duration" : 6
+    }, {
+      "name" : "oth",
+      "passed" : true,
+      "duration" : 15
+    } ]
+  }, {
+    "name" : "R",
+    "chunks" : [ {
+      "name" : "C",
+      "passed" : true,
+      "duration" : 7
+    }, {
+      "name" : "J",
+      "passed" : true,
+      "duration" : 11
+    }, {
+      "name" : "R",
+      "passed" : true,
+      "duration" : 16
+    }, {
+      "name" : "Ru",
+      "passed" : true,
+      "duration" : 16
+    } ]
+  }, {
+    "name" : "T",
+    "chunks" : [ {
+      "name" : "c",
+      "passed" : true,
+      "duration" : 18
+    }, {
+      "name" : "d",
+      "passed" : true,
+      "duration" : 30
+    }, {
+      "name" : "o",
+      "passed" : true,
+      "duration" : 17
+    }, {
+      "name" : "p",
+      "passed" : true,
+      "duration" : 26
+    }, {
+      "name" : "s",
+      "passed" : true,
+      "duration" : 17
+    }, {
+      "name" : "tp",
+      "passed" : true,
+      "duration" : 16
+    } ]
+  } ]
+}, {
+  "platform" : "Win8 debug",
+  "data" : [ {
+    "name" : "X",
+    "passed" : true,
+    "duration" : 47
+  }, {
+    "name" : "JP",
+    "passed" : true,
+    "duration" : 20
+  }, {
+    "name" : "M",
+    "chunks" : [ {
+      "name" : "1",
+      "passed" : true,
+      "duration" : 35
+    }, {
+      "name" : "2",
+      "passed" : true,
+      "duration" : 18
+    }, {
+      "name" : "3",
+      "passed" : true,
+      "duration" : 35
+    }, {
+      "name" : "4",
+      "passed" : true,
+      "duration" : 9
+    }, {
+      "name" : "5",
+      "passed" : true,
+      "duration" : 14
+    }, {
+      "name" : "bc",
+      "passed" : true,
+      "duration" : 84
+    }, {
+      "name" : "oth",
+      "passed" : true,
+      "duration" : 28
+    } ]
+  }, {
+    "name" : "R",
+    "chunks" : [ {
+      "name" : "C",
+      "passed" : true,
+      "duration" : 12
+    }, {
+      "name" : "J",
+      "passed" : true,
+      "duration" : 24
+    }, {
+      "name" : "R",
+      "passed" : true,
+      "duration" : 37
+    } ]
+  } ]
+}, {
+  "platform" : "Android 2.2 x86 opt",
+  "data" : [ {
+    "name" : "B",
+    "passed" : true,
+    "duration" : 68
+  } ]
+}, {
+  "platform" : "Android 2.2 Armv6 opt",
+  "data" : [ {
+    "name" : "B",
+    "passed" : true,
+    "duration" : 69
+  }, {
+    "name" : "X",
+    "passed" : true,
+    "duration" : 33
+  }, {
+    "name" : "M",
+    "chunks" : [ {
+      "name" : "1",
+      "passed" : true,
+      "duration" : 15
+    }, {
+      "name" : "2",
+      "passed" : true,
+      "duration" : 16
+    }, {
+      "name" : "3",
+      "passed" : true,
+      "duration" : 20
+    }, {
+      "name" : "4",
+      "passed" : true,
+      "duration" : 17
+    }, {
+      "name" : "5",
+      "passed" : true,
+      "duration" : 16
+    }, {
+      "name" : "6",
+      "passed" : true,
+      "duration" : 15
+    }, {
+      "name" : "7",
+      "passed" : true,
+      "duration" : 18
+    }, {
+      "name" : "8",
+      "passed" : true,
+      "duration" : 17
+    }, {
+      "name" : "rc1",
+      "passed" : true,
+      "duration" : 21
+    }, {
+      "name" : "rc2",
+      "passed" : true,
+      "duration" : 34
+    } ]
+  }, {
+    "name" : "R",
+    "chunks" : [ {
+      "name" : "C",
+      "passed" : true,
+      "duration" : 20
+    }, {
+      "name" : "J1",
+      "passed" : true,
+      "duration" : 49
+    }, {
+      "name" : "J2",
+      "passed" : true,
+      "duration" : 39
+    }, {
+      "name" : "J3",
+      "passed" : true,
+      "duration" : 21
+    }, {
+      "name" : "R1",
+      "passed" : true,
+      "duration" : 45
+    }, {
+      "name" : "R2",
+      "passed" : true,
+      "duration" : 59
+    }, {
+      "name" : "R3",
+      "passed" : true,
+      "duration" : 40
+    }, {
+      "name" : "R4",
+      "passed" : true,
+      "duration" : 49
+    } ]
+  } ]
+}, {
+  "platform" : "Android 2.2 NoIon opt",
+  "data" : [ {
+    "name" : "B",
+    "passed" : true,
+    "duration" : 72
+  }, {
+    "name" : "R",
+    "chunks" : [ {
+      "name" : "J1",
+      "passed" : true,
+      "duration" : 23
+    }, {
+      "name" : "J2",
+      "passed" : true,
+      "duration" : 25
+    }, {
+      "name" : "J3",
+      "passed" : true,
+      "duration" : 40
+    } ]
+  } ]
+}, {
+  "platform" : "Android 2.2 opt",
+  "data" : [ {
+    "name" : "B",
+    "passed" : true,
+    "duration" : 80
+  }, {
+    "name" : "X",
+    "passed" : true,
+    "duration" : 38
+  }, {
+    "name" : "M",
+    "chunks" : [ {
+      "name" : "1",
+      "passed" : true,
+      "duration" : 15
+    }, {
+      "name" : "2",
+      "passed" : true,
+      "duration" : 14
+    }, {
+      "name" : "3",
+      "passed" : true,
+      "duration" : 19
+    }, {
+      "name" : "4",
+      "passed" : true,
+      "duration" : 15
+    }, {
+      "name" : "5",
+      "passed" : true,
+      "duration" : 14
+    }, {
+      "name" : "6",
+      "passed" : true,
+      "duration" : 18
+    }, {
+      "name" : "7",
+      "passed" : true,
+      "duration" : 16
+    }, {
+      "name" : "8",
+      "passed" : true,
+      "duration" : 14
+    }, {
+      "name" : "rc1",
+      "passed" : true,
+      "duration" : 26
+    }, {
+      "name" : "rc2",
+      "passed" : true,
+      "duration" : 34
+    } ]
+  }, {
+    "name" : "R",
+    "chunks" : [ {
+      "name" : "C",
+      "passed" : true,
+      "duration" : 19
+    }, {
+      "name" : "J1",
+      "passed" : true,
+      "duration" : 34
+    }, {
+      "name" : "J2",
+      "passed" : true,
+      "duration" : 28
+    }, {
+      "name" : "J3",
+      "passed" : true,
+      "duration" : 40
+    }, {
+      "name" : "R1",
+      "passed" : true,
+      "duration" : 45
+    }, {
+      "name" : "R2",
+      "passed" : true,
+      "duration" : 56
+    }, {
+      "name" : "R3",
+      "passed" : true,
+      "duration" : 45
+    }, {
+      "name" : "R4",
+      "passed" : true,
+      "duration" : 47
+    } ]
+  }, {
+    "name" : "T",
+    "chunks" : [ {
+      "name" : "rck2",
+      "passed" : true,
+      "duration" : 16
+    }, {
+      "name" : "rp",
+      "passed" : true,
+      "duration" : 16
+    }, {
+      "name" : "rpr",
+      "passed" : true,
+      "duration" : 21
+    }, {
+      "name" : "s",
+      "passed" : true,
+      "duration" : 13
+    }, {
+      "name" : "tpn",
+      "passed" : true,
+      "duration" : 11
+    }, {
+      "name" : "ts",
+      "passed" : true,
+      "duration" : 12
+    } ]
+  } ]
+}, {
+  "platform" : "Android 2.2 debug",
+  "data" : [ {
+    "name" : "B",
+    "passed" : true,
+    "duration" : 66
+  } ]
+}, {
+  "platform" : "Android 4.0 opt",
+  "data" : [ {
+    "name" : "X",
+    "passed" : true,
+    "duration" : 40
+  }, {
+    "name" : "M",
+    "chunks" : [ {
+      "name" : "1",
+      "passed" : true,
+      "duration" : 18
+    }, {
+      "name" : "2",
+      "passed" : true,
+      "duration" : 19
+    }, {
+      "name" : "3",
+      "passed" : true,
+      "duration" : 23
+    }, {
+      "name" : "4",
+      "passed" : true,
+      "duration" : 18
+    }, {
+      "name" : "5",
+      "passed" : true,
+      "duration" : 20
+    }, {
+      "name" : "6",
+      "passed" : true,
+      "duration" : 18
+    }, {
+      "name" : "7",
+      "passed" : true,
+      "duration" : 19
+    }, {
+      "name" : "8",
+      "passed" : true,
+      "duration" : 14
+    }, {
+      "name" : "gl",
+      "passed" : true,
+      "duration" : 17
+    }, {
+      "name" : "rc1",
+      "passed" : true,
+      "duration" : 18
+    }, {
+      "name" : "rc2",
+      "passed" : true,
+      "duration" : 29
+    }, {
+      "name" : "rc3",
+      "passed" : true,
+      "duration" : 27
+    } ]
+  }, {
+    "name" : "R",
+    "chunks" : [ {
+      "name" : "C",
+      "passed" : true,
+      "duration" : 24
+    }, {
+      "name" : "J1",
+      "passed" : true,
+      "duration" : 26
+    }, {
+      "name" : "J2",
+      "passed" : true,
+      "duration" : 26
+    }, {
+      "name" : "J3",
+      "passed" : true,
+      "duration" : 25
+    } ]
+  }, {
+    "name" : "T",
+    "chunks" : [ {
+      "name" : "rck2",
+      "passed" : true,
+      "duration" : 20
+    }, {
+      "name" : "rp",
+      "passed" : true,
+      "duration" : 18
+    }, {
+      "name" : "rpr",
+      "passed" : true,
+      "duration" : 30
+    }, {
+      "name" : "s",
+      "passed" : false,
+      "duration" : 14
+    }, {
+      "name" : "s",
+      "passed" : true,
+      "duration" : 17
+    }, {
+      "name" : "tpn",
+      "passed" : true,
+      "duration" : 14
+    }, {
+      "name" : "ts",
+      "passed" : true,
+      "duration" : 21
+    } ]
+  } ]
+}, {
+  "platform" : "B2G ICS Emu opt",
+  "data" : [ {
+    "name" : "Bi",
+    "passed" : true,
+    "duration" : 120
+  }, {
+    "name" : "Mn",
+    "passed" : true,
+    "duration" : 21
+  }, {
+    "name" : "R",
+    "chunks" : [ {
+      "name" : "R1",
+      "passed" : true,
+      "duration" : 30
+    }, {
+      "name" : "R10",
+      "passed" : true,
+      "duration" : 30
+    }, {
+      "name" : "R2",
+      "passed" : true,
+      "duration" : 30
+    }, {
+      "name" : "R3",
+      "passed" : true,
+      "duration" : 31
+    }, {
+      "name" : "R4",
+      "passed" : true,
+      "duration" : 32
+    }, {
+      "name" : "R5",
+      "passed" : true,
+      "duration" : 34
+    }, {
+      "name" : "R6",
+      "passed" : true,
+      "duration" : 33
+    }, {
+      "name" : "R7",
+      "passed" : true,
+      "duration" : 63
+    }, {
+      "name" : "R8",
+      "passed" : true,
+      "duration" : 26
+    }, {
+      "name" : "R9",
+      "passed" : true,
+      "duration" : 30
+    } ]
+  } ]
+}, {
+  "platform" : "B2G ICS Emu debug",
+  "data" : [ {
+    "name" : "Bi",
+    "passed" : true,
+    "duration" : 110
+  } ]
+}, {
+  "platform" : "B2G ICS Emu (VM) opt",
+  "data" : [ {
+    "name" : "X",
+    "passed" : true,
+    "duration" : 6
+  }, {
+    "name" : "M",
+    "chunks" : [ {
+      "name" : "1",
+      "passed" : true,
+      "duration" : 28
+    }, {
+      "name" : "2",
+      "passed" : true,
+      "duration" : 33
+    }, {
+      "name" : "3",
+      "passed" : true,
+      "duration" : 43
+    }, {
+      "name" : "4",
+      "passed" : true,
+      "duration" : 29
+    }, {
+      "name" : "5",
+      "passed" : true,
+      "duration" : 24
+    }, {
+      "name" : "6",
+      "passed" : true,
+      "duration" : 22
+    }, {
+      "name" : "7*",
+      "passed" : false,
+      "duration" : 7
+    }, {
+      "name" : "7",
+      "passed" : true,
+      "duration" : 20
+    }, {
+      "name" : "8",
+      "passed" : true,
+      "duration" : 21
+    }, {
+      "name" : "9",
+      "passed" : true,
+      "duration" : 29
+    } ]
+  }, {
+    "name" : "R",
+    "chunks" : [ {
+      "name" : "C1",
+      "passed" : true,
+      "duration" : 40
+    }, {
+      "name" : "C2",
+      "passed" : true,
+      "duration" : 43
+    }, {
+      "name" : "C3",
+      "passed" : true,
+      "duration" : 42
+    } ]
+  } ]
+}, {
+  "platform" : "B2G JB Emu opt",
+  "data" : [ {
+    "name" : "Bi",
+    "passed" : true,
+    "duration" : 183
+  } ]
+}, {
+  "platform" : "B2G JB Emu debug",
+  "data" : [ {
+    "name" : "Bi",
+    "passed" : true,
+    "duration" : 188
+  } ]
+}, {
+  "platform" : "B2G Unagi opt",
+  "data" : [ {
+    "name" : "Bi",
+    "passed" : true,
+    "duration" : 106
+  } ]
+} ]
