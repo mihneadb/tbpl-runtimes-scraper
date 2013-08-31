@@ -1,4 +1,4 @@
-# tbpl-testtimes
+# tbpl-testtimes-scraper
 
 Output JSON data of build and test time from a revision's TBPL HTML page.
 
